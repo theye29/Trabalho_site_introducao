@@ -1,10 +1,20 @@
 
 # **Trabalho do curso SENAI**
 
-*Praticar a adição, commit e push para o GitHub e praticar alguns comandos básicos no que diz respeito ao manejo do seu repositório.*
-## ✨📖*Colaboradores*📖✨
+*-> "Aprendizado do Git E GitHub"*
 
-- [calebeblack](https://www.github.com/calebeblack)
-- [João Victor](https://www.github.com/theye29)
+*| 25/01/2024 |*
+## ✨📖**Colaboradores**📖✨
 
+- *[calebeblack](https://www.github.com/calebeblack)*
+- *[João Victor](https://www.github.com/theye29)*
+- *[Phzin](https://www.github.com/Kuuh4k0)*
+- *[João Vitor](https://www.github.com/Joao-vasco-dias)*
+
+
+
+## **Programas utilizados no trabalho**
+
+- *Visual Studio Code*
+- *Git e GitHub*
 
