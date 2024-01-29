@@ -54,7 +54,7 @@
 # **Desenvolvimento desse projeto**
 Como essa é a nossa primeira vez criando algo utilizando as ferramentas git e github, tivemos muita dificuldade no começo e durante o desenvolvimento do mesmo devido a desinformação e algumas confusões que ocorreram, mas pouco a pouco nos acostumamos e estamoas melhorando e aprendendo cada vez mais a utilizar-las de forma correta.
 
-### Objetivos:
+### **Objetivos**:
 - [x]  Estrutura
 - [x]  Conteúdo
 - [ ]  Decoração
