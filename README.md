@@ -6,9 +6,7 @@
 *| 25/01/2024 |*
 
 
-# **Indice**
-- [Ferramentas utilizadas](#Ferramentas-utilizadas-neste-trabalho)
-- [Colaboradores](#Colaboradores)
+
 
 
 # **Ferramentas utilizadas neste trabalho**
